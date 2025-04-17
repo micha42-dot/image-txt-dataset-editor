@@ -2,6 +2,9 @@
 
 A simple Python-based GUI application to edit `.txt` files side-by-side with their corresponding image files.
 
+![Screenshot of the App](https://raw.githubusercontent.com/micha42-dot/image-txt-dataset-editor/refs/heads/main/app_screenshot.jpg))
+
+
 ## ✨ Features
 
 - Select a folder containing `.txt` files and images
